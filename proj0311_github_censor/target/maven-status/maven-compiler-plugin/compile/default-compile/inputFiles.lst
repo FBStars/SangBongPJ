@@ -19,6 +19,7 @@ E:\SangBongPJ\proj0311_github_censor\src\main\java\cafe\model\CafeRankingDTO.jav
 E:\SangBongPJ\proj0311_github_censor\src\main\java\cafe\model\CN_Cafe.java
 E:\SangBongPJ\proj0311_github_censor\src\main\java\cafe\model\CN_CafeDetails.java
 E:\SangBongPJ\proj0311_github_censor\src\main\java\cafe\service\CN_CafeService.java
+E:\SangBongPJ\proj0311_github_censor\src\main\java\controller\LinkController.java
 E:\SangBongPJ\proj0311_github_censor\src\main\java\login\controller\CN_LoginController.java
 E:\SangBongPJ\proj0311_github_censor\src\main\java\login\controller\CN_UserController.java
 E:\SangBongPJ\proj0311_github_censor\src\main\java\login\dao\CN_UserDao.java

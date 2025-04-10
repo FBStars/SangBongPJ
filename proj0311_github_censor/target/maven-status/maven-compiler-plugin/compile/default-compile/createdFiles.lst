@@ -34,6 +34,7 @@ registeredcafes\dao\CN_Registered_CafesDao$1.class
 test\controller\TestController.class
 reviewlikes\model\CN_Review_Likes.class
 test\controller\TestController$2.class
+controller\LinkController.class
 login\security\SecurityConfig.class
 notice\dao\CN_NoticeDao$1.class
 advertisingimage\service\CN_Advertising_ImageService.class
