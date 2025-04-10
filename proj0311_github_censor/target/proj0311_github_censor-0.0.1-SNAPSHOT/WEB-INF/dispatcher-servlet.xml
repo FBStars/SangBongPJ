@@ -23,6 +23,7 @@
     <!-- Scan for controllers in the specified package -->
     <context:component-scan base-package="advertising.**" />
 	<context:component-scan base-package="advertisingimage.**" />
+	<context:component-scan base-package="controller" />
 	<context:component-scan base-package="bookmark.**" />
 	<context:component-scan base-package="bookmarkcafes.**" />
 	<context:component-scan base-package="bookmarklikes.**" />
